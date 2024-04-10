@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Galaxy-Ranger/10-mini-html-css-project)
-  ![GitHub stars](https://img.shields.io/github/stars/Galaxy-Ranger/10-mini-html-css-project)
-  ![GitHub forks](https://img.shields.io/github/forks/Galaxy-Ranger/10-mini-html-css-project?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Galaxy-Ranger/10-mini-html-css-projects)
+  ![GitHub stars](https://img.shields.io/github/stars/Galaxy-Ranger/10-mini-html-css-projects)
+  ![GitHub forks](https://img.shields.io/github/forks/Galaxy-Ranger/10-mini-html-css-projects?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/Galaxy-Ranger?style=social)](https://x.com/CodeWithPhoenix/)
  
   <br />
